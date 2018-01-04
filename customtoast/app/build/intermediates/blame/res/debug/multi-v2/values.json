@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\aennam\\AndroidStudioProjects\\customtoast\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aennam\\AndroidStudioProjects\\customtoast\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,4,-1",
+                        "startColumns": "-1,-1,4,-1",
+                        "startOffsets": "-1,-1,110,-1",
+                        "endColumns": "-1,-1,54,-1",
+                        "endOffsets": "-1,-1,160,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,163,218",
+                        "endColumns": "57,49,54,50",
+                        "endOffsets": "108,158,213,264"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aennam\\AndroidStudioProjects\\customtoast\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "269,352",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "347,419"
+                    }
+                }
+            ]
+        }
+    ]
+}
