@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Jan 05 14:37:00 IST 2018
+1.base=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.file=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.file=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\activity_main.xml
+4.base=C\:\\Users\\aennam\\AndroidStudioProjects\\togglebutton\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
