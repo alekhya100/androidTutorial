@@ -19,3 +19,9 @@
 #  ScreenOrientation
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/ScreenOrientation.png)
+
+#  Spinner
+
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/spinner.png)
+
+
