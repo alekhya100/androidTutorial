@@ -36,3 +36,6 @@
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/HideTitle.PNG)
 
+#  LinearLayout
+
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/LinearLayout.PNG)
