@@ -1,5 +1,6 @@
 ### Android Tutorial
 
-# Dialog
+# Toast
 
-![Alt text](http://full/path/to/img.jpg "Dialog Screen")
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/AndroidToast.png)
+ 
