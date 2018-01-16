@@ -12,6 +12,7 @@
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/CustomToast.png)
 
+#  RelativeLayout
 
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/RelativeLayout.PNG)
 
- 
