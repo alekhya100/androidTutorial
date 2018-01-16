@@ -27,3 +27,8 @@
 #  SumOf2Numbers
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/sumof2numbers.png)
+ 
+#  ToggleButton 
+
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/togglebutton.png)
+
