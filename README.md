@@ -16,3 +16,6 @@
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/RelativeLayout.PNG)
 
+#  ScreenOrientation
+
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/ScreenOrientation.png)
