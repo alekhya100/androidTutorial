@@ -24,4 +24,6 @@
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/spinner.png)
 
+#  SumOf2Numbers
 
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/sumof2numbers.png)
