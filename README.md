@@ -32,3 +32,7 @@
 
 ![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/togglebutton.png)
 
+#  HideTitle
+
+![Alt text](https://github.com/alekhya100/androidTutorial/blob/master/screenshots/HideTitle.PNG)
+
